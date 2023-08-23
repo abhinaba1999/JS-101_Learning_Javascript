@@ -8,9 +8,9 @@ fuction prime(x){
        }
   }
   if(count==2){
-    console.log('true')
+    return true;
   }else{
-    console.log('false')
+    return false;
   }
   
   }
